@@ -1,0 +1,3 @@
+Name:Sampada B
+Course:CSE 
+Favourite programming language:c++
